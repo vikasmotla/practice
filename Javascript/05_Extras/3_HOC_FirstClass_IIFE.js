@@ -12,7 +12,7 @@ const Arithmatics = {
 console.log(Arithmatics.add(4, 6));
 
 
-//HOF:  A fn that receives another fn as an arguments or that retirns new fn is called HOF
+//HOF:  A fn that receives another fn as an arguments or that returns new fn is called HOF
 // HOF are possible because of First class fn.
 
 
