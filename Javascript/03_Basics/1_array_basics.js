@@ -1,7 +1,7 @@
 let emptyArray = [];
 let array = ['1',1,5,false];
 
-// Array is collection of data, in JS data can be of anytype
+// Array is collection of data as ordered list, in JS data can be of anytype
 
 console.log(array[1]); // 1
 console.log(array['2']); // 5, this is valid

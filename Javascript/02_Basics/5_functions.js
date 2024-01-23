@@ -14,7 +14,7 @@ const arrorFn = () => {
 let returnedArrow = arrorFn();
 console.log(returnedArrow);
 
-const oneLineArrFn2 = () => `This is one line arr fn, no need to write return keyword`;
+const oneLineArrFn2 = () => `This is one line arr fn, no need to write return keyword`; // implicit return
 console.log(oneLineArrFn2());
 
 
